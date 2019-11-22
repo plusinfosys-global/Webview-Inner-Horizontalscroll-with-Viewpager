@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebviewInsideViewPager</string>
+    <string name="this_is_webview_without_inner_horizontal_view_scroll">This is WebView without inner horizontal view
+        scroll
+    </string>
+    <string name="this_is_webview_with_inner_horizontal_view_scroll">This is WebView with inner horizontal view scroll
+    </string>
+</resources>
